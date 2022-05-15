@@ -4,3 +4,6 @@
 [submodule "hugo-xmin"]
 	path = hugo-xmin
 	url = https://github.com/yihui/hugo-xmin.git
+[submodule "hugo-PaperMod"]
+	path = hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
